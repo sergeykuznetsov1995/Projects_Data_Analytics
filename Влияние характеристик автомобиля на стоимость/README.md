@@ -9,7 +9,7 @@
 ## Использованные библиотеки
 - *pandas*
 - *numpy*
-- *statistics*
+- *statsmodels*
 - *seaborn*
 
 ## Статус проекта
